@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 /*
-<applet code=”appcal” width=450 height=300>
+<applet code=”interest” width=450 height=300>
 </applet>
 */
 public class interest extends Applet implements ActionListener {
